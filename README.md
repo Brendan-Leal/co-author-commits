@@ -11,7 +11,7 @@ Lastly, make sure the script has executable permissions
 
 ## How to use this script?
 
-This script replaces the `git commit` command you would normally use. So when instead of that command run this script
+This script replaces the `git commit` command you would normally use. So instead of running that command run this script
 
 Example:
 

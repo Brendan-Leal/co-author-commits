@@ -1,7 +1,7 @@
 #!/bin/bash
 
 read -p "Enter commit message: " r1
-git commit -m \""$r1
+echo git commit -m "$r1
 
 
 Co-authored-by: Michael Fatigati <fatigati.michael@gmail.com>

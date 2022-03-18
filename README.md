@@ -26,4 +26,4 @@ You will be prompted for a commit message just hit enter when done.
 Afterwords your welcome to push to a remote branch like normal.
 
 ---
-*Note you'll probably want to add this to a git ignore file when we get to that point.*
+*Note you'll probably want to add this to a git ignore file when we get to that point!*

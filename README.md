@@ -2,7 +2,7 @@
 A simple script to make co-authored git commits
 ## Before you can use this script 
 
-First clone the repo. Since git automatically knows you're an "author" edit the script and remove your name. That way you don't show up as a co-author. Don't worry you'll still get credit for the commit. You'll only have to do this once assuming you don't change the script back to it's original format. 
+First clone the repo. Since git automatically knows you're an "author" edit the script by deleting the `Co-author...` line with your name and email. That way you don't show up as a co-author. Don't worry you'll still get credit for the commit. You'll only have to do this once assuming you don't change the script back to it's original format. 
 
 **Verify your email is correct if not let me know and I can update it.**
 
